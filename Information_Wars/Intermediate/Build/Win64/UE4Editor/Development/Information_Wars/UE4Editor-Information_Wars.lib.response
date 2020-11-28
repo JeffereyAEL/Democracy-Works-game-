@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Information_Wars.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\Information_WarsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\A_NationState.cpp.obj"
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\Information_Wars.cpp.obj"
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\A_NationState.gen.cpp.obj"
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\Information_Wars.init.gen.cpp.obj"
+"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\Default.rc2.res"
+/OUT:"C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\UE4Editor-Information_Wars.lib"
+/INCLUDE:IMPLEMENT_MODULE_Information_Wars

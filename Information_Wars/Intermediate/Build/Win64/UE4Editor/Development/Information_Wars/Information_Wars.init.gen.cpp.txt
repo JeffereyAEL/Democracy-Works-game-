@@ -1,0 +1,3 @@
+C:\Users\Jefferey Schlueter\Desktop\Programming\Info_Wars\Information_Wars\Intermediate\Build\Win64\UE4Editor\Development\Information_Wars\Definitions.Information_Wars.h
+C:\Program Files (x86)\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

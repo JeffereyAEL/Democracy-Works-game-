@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Information_Wars",
+			"Path": "C:\\Users\\Jefferey Schlueter\\Desktop\\Programming\\Info_Wars\\Information_Wars\\Source\\Information_Wars.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Information_WarsEditor",
+			"Path": "C:\\Users\\Jefferey Schlueter\\Desktop\\Programming\\Info_Wars\\Information_Wars\\Source\\Information_WarsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
